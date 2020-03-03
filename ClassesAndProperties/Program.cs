@@ -13,7 +13,9 @@ namespace ClassesAndProperties
             //Polymorphism.Demo.RunDemo();
             //AbstractDemo.RunDemo();
             //CollectionsDemo.RunDemo();
-            OverLoadingDemo.RunDemo();
+            //OverLoadingDemo.RunDemo();
+            //YieldReturnDemo.RunDemo();
+            Delegates.RunDemo();
         }
     }
 }
