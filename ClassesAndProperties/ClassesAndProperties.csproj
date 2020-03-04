@@ -46,11 +46,13 @@
     <Compile Include="Classes\AbstractClasses.cs" />
     <Compile Include="Classes\Collections.cs" />
     <Compile Include="Classes\Delegrates.cs" />
+    <Compile Include="Classes\Lamda.cs" />
     <Compile Include="Classes\OperatorOverloading.cs" />
     <Compile Include="Classes\Partials2.cs" />
     <Compile Include="Classes\Partials1.cs" />
     <Compile Include="Classes\Variance.cs" />
     <Compile Include="Classes\YieldReturn.cs" />
+    <Compile Include="DarkCodding\Quiz1.cs" />
     <Compile Include="Group-B\ComplexProperties.cs" />
     <Compile Include="Group-B\SimpleProperties.cs" />
     <Compile Include="Inheritance\Inheritance.cs" />
