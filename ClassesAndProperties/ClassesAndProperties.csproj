@@ -60,6 +60,7 @@
     <Compile Include="MoreProperties.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Threads\ThreadDemo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

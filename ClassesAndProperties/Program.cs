@@ -16,7 +16,8 @@ namespace ClassesAndProperties
             //OverLoadingDemo.RunDemo();
             //YieldReturnDemo.RunDemo();
             //Delegates.RunDemo();
-            Lamda.RunDemo();
+            //Lamda.RunDemo();
+            Threads.ExecuteDemo.RunDemo();
         }
     }
 }
